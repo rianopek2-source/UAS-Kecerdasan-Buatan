@@ -1,7 +1,7 @@
 # 📅 Sistem Penjadwalan Otomatis Mata Kuliah Menggunakan Algoritma Genetika
 **Ujian Akhir Semester (UAS) - Kecerdasan Buatan (SIF210)**
 
-* **Nama:** Rian [Isi Nama Lengkap Rian]
+* **Nama:** Rian 
 * **NIM:** 24146049
 * **Dosen Pengampu:** Teuku Rizky Noviandy, S.Kom., M.Kom.
 
@@ -16,4 +16,3 @@ Proyek ini mengimplementasikan Algoritma Genetika untuk mengoptimalkan penjadwal
 * **Crossover Rate ($p_c$):** 85%[span_3](start_span)[span_3](end_span)
 * **Mutation Rate ($p_m$):** 20%[span_4](start_span)[span_4](end_span)
 * **Random Seed:** `24146049`
-*
